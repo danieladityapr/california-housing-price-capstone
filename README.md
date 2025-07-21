@@ -1,7 +1,7 @@
 
 # 🏡 California Housing Price Prediction (Capstone Project)
 
-![California Real Estate](https://upload.wikimedia.org/wikipedia/commons/2/23/California_state_flag.png)
+[California Real Estate]
 
 This project is part of the final capstone from the **Data Science, Machine Learning & AI Bootcamp** at **Purwadhika Digital School**. The goal is to build a predictive model that estimates **California housing prices** based on the 1990 U.S. Census data.
 
